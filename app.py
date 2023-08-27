@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 import pandas as pd
 
-pipe = pickle.load(open("E:\sunbase\model_pipeline1.pkl",'rb'))
+pipe = pickle.load(open("model_pipeline1.pkl",'rb'))
 
 st.set_page_config(page_title='Customer Churn')
 
