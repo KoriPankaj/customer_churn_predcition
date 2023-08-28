@@ -1,5 +1,5 @@
-# customer_churn_predcition
-# Problem Statement
+# Customer_churn_predcition
+## Problem Statement
 At Sunbase company, we prioritize understanding our customers and ensuring their satisfaction. To achieve this,
 we need to develop a machine learning model that predicts customer churn.
 
